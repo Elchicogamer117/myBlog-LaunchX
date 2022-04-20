@@ -4,8 +4,6 @@
 
 Hola explorer 👋 
 
-Aqui pueden ver mi blog: https://elchicogamer117.github.io/my_launchx_blog/
+Aqui pueden ver mi blog: https://elchicogamer117.github.io/myBlog-LaunchX/
 
-Así como también puedes crear tu **Workbook**:
 
-![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
